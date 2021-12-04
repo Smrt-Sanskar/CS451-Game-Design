@@ -1,0 +1,29 @@
+Unity Editor version:    2020.3.17f1 (a4537701e4ab)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #101~18.04.1-Ubuntu SMP Fri Oct 22 09:25:04 UTC 2021
+Kernel version:          5.4.0-90-generic
+Architecture:            x86_64
+Available memory:        3598 MB
+Using pre-set license
+Pro License: NO
+Desktop is 1920 x 1080 @ 60 Hz
+
+COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/sanskar/OptimalCover
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+38069
+Successfully changed project path to: /home/sanskar/OptimalCover
+/home/sanskar/OptimalCover
+Using Asset Import Pipeline V2.
